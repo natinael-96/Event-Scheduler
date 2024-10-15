@@ -17,9 +17,7 @@ const event = {
       requestId: uuid(),
     }
   },
-  attendees: [
-    { email: 'habibgeorgis23@gmail.com'},
-        {email: 'natinael.linked@gmail.com'}
+  attendees: [{email: ''}
   ],
   reminders: {
     useDefault: false,  
