@@ -1,7 +1,7 @@
 import { v4 as uuid } from 'uuid';
 
 const event = {
-  summary: 'Hello Hailegioris',
+  summary: 'Hello',
   location: 'Google Meet',
   description: "Demo event",
   start: {
